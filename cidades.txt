@@ -8,3 +8,4 @@ niteroi
 barueri
 recife
 jaguariuna
+bauru
